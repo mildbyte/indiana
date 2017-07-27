@@ -1,6 +1,8 @@
 # indiana
 A Telegram treasure hunt bot that generates a random location in Hyde Park. Make a guess by going to a location and sending the location to the bot -- it will reply with the rough distance from the treasure. You can configure the number of guesses you're allowed and the error in the distance that's reported to you.
 
+![](http://mildbyte.xyz/images/indiana.png)
+
 Note the "treasure" might be in an inaccessible location -- the area where it's generated is just a rectangle. I take no responsibility for you ending up in [the Serpentine](https://en.wikipedia.org/wiki/The_Serpentine).
 
 # Running
